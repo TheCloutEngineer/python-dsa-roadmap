@@ -25,8 +25,4 @@ Principles: solve > memorize • implement DS from scratch • narrate tradeoffs
 - Solve one problem/day (Mon–Thu), Friday review.
 - Track each problem in `tracker/leetcode-progress.md`.
 
-## Senior/Staff Angle
 
-Explain invariants, complexity, and failure modes. Offer variants and when you'd swap data structures in production.
-
-> Obsidian users: add this repo to your vault and use the weekly checklists.
