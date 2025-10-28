@@ -1,4 +1,4 @@
-# Python DSA Roadmap (Senior/Staff Track)
+# Python DSA Roadmap
 
 Purpose: one-hour-a-day, pattern-first system to master Data Structures & Algorithms for senior/staff interviews.  
 Principles: solve > memorize • implement DS from scratch • narrate tradeoffs • write tests.
@@ -8,7 +8,7 @@ Principles: solve > memorize • implement DS from scratch • narrate tradeoffs
 1) Warm-up 10 min — review notes + 1 micro-drill
 2) Deep problem 35 min — restate → choose pattern → code → basic tests
 3) Reflect & test 10 min — add edge cases; write 3 lines: worked/broke/next
-4) Log 5m — update tracker, queue tomorrow’s problem
+4) Log 5 min — update tracker, queue tomorrow’s problem
 
 ## Folders
 
